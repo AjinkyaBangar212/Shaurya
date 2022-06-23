@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.ACollections.Practice22062022.NonGenricQueue</StartupObject>
+	  <StartupObject>ConsoleApp1.ACollections.Date23062022.GenricDictonary</StartupObject>
   </PropertyGroup>
 
 </Project>
