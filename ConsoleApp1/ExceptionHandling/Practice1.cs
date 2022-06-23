@@ -8,7 +8,7 @@ namespace ConsoleApp1.ExcepyionHandling
     class a1
     {
 
-        private int A = 10;
+        protected int A = 10;
         protected int B = 0;
 
         public int A1 { get => A; set => A = value; } // private to public using property
