@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.ACollections.Date23062022.NonGenricHashTable2</StartupObject>
+	  <StartupObject>ConsoleApp1.ACollections.Date24062022.GenricOnlyLinkedList</StartupObject>
   </PropertyGroup>
 
 </Project>
