@@ -16,10 +16,10 @@ namespace ConsoleApp1.ACollections.Date23062022
             obj.Add(104, "B");
             obj.Add(105, "PPP");
 
-            ICollection keys = obj.Keys;
+            ICollection keys = obj.Keys;   //Getting Key Collection   imp
 
 
-            foreach(int x in keys)
+            foreach (int x in keys)
             {
                 Console.WriteLine(obj[x]);
             }

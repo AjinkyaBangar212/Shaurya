@@ -15,7 +15,7 @@ namespace ConsoleApp1.ACollections.Date23062022
             ht.Add("003", "ASP.Net");
             ht.Add("004", 1);
 
-            ICollection keys = ht.Keys;
+            ICollection keys = ht.Keys;  //Getting Key Collection imp
 
             foreach (String k in keys)
             {
