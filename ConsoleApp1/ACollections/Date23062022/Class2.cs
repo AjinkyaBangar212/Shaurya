@@ -10,7 +10,7 @@ namespace ConsoleApp1.ACollections.Date23062022
         {
             public int Compare(StringBuilder s1 , StringBuilder s2)
             {
-                return s1.ToString().CompareTo(s2.ToString());
+                return s1.ToString().CompareTo(s2.ToString()); //sorting A to Z
             }
         }
 
