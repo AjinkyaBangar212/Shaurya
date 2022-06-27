@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.Assigntment25062022.Class7</StartupObject>
+	  <StartupObject>ConsoleApp1.ACollections.Date23062022.Class1</StartupObject>
   </PropertyGroup>
 
 </Project>

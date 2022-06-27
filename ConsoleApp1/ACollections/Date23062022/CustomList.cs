@@ -38,18 +38,6 @@ namespace ConsoleApp1.ACollections.Date23062022
 
         }
 
-
-
-
-
-
-       
-
-
-
-
-
-
         public int Rollno { get => rollno; set => rollno = value; }
         public string Name { get => name; set => name = value; }
         public int Per { get => per; set => per = value; }
