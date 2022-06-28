@@ -23,7 +23,7 @@ namespace ConsoleApp1.Deligate
         {
 
             mydele1 d = DemoDel2.fac1;
-           int r=  d(10);
+           int r =  d(10);
 
             Console.WriteLine(r);
         }
