@@ -30,10 +30,18 @@ namespace ConsoleApp1.Assigntment25062022
                 foreach (DictionaryEntry entry in ht)
                 {
 
+                int x = (int) entry.Key ;
+             
+                if (x % 3 != 0)
+                {
+                   
 
-                    Console.WriteLine(entry.Key + ":" + entry.Value);
-
+                     Console.WriteLine(entry.Key + ":" + entry.Value);
+           
                 }
+               // Console.WriteLine(entry.Key + ":" + entry.Value);
+
+            }
 
             }
 
