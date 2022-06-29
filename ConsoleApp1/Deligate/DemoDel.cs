@@ -17,11 +17,11 @@ namespace ConsoleApp1.Deligate
         static void Main(string[] args)
         {
 
-            mydele d1 = DemoDel.greet;
+              mydele d1 = DemoDel.greet;
 
-            d1("HEllo" ," Ajinkya");
+               d1("HEllo" ," Ajinkya");
 
-
+            
 
         }
     }

@@ -5,12 +5,12 @@ using System.Text;
 namespace ConsoleApp1.Deligate
 {
 
-    public delegate int del(int a);
+    public delegate string del(string a);
     class DemoDePractice6
     {
 
 
-        static int m(int a)
+        static string m(string a)
         {
             return a;
         }
@@ -22,7 +22,7 @@ namespace ConsoleApp1.Deligate
 
             del obj = DemoDePractice6.m;
 
-          int a=  obj(5000);
+          string a =  obj("kk");
             Console.WriteLine(a);
              
         }

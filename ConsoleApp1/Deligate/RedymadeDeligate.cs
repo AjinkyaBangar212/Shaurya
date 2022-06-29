@@ -4,6 +4,21 @@ using System.Text;
 
 namespace ConsoleApp1.Deligate
 {
+ /*   Func, Action and Predicate are generic inbuilt delegates present in System namespace.
+
+All three can be used with method, anonymous method and lambda expression.
+
+Func can contains 0 to 16 input parameters and must have one return type.
+
+Action can contain 1 to 16 input parameters and does not have any return type.
+
+Predicate delegate should satisfy some criteria of method and must have one input parameter and one Boolean return type either true or false.
+
+Input parameters of custom delegates is fixed but Func and Actions input parameter is variable from 0 to 16 and 1 to 16 respectively.
+
+
+*/
+
 
     class RedymadeDeligate
     {
