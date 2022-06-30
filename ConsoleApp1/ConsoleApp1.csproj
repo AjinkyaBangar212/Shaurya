@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.MultiThreading.MultiThreading1</StartupObject>
+	  <StartupObject>ConsoleApp1.MultiThreading.MultiThreading2</StartupObject>
   </PropertyGroup>
 
 </Project>
