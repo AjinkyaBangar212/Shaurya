@@ -33,10 +33,10 @@ namespace ConsoleApp1.MultiThreading
 
             t1.Name = "t1";
 
-            Console.WriteLine("Enter Number");
+            /*Console.WriteLine("Enter Number");
             int x = int.Parse(Console.ReadLine());
 
-
+*/
             for (int j = 1; j<=10; j++)
             {
                 Console.WriteLine("J Loop" +Thread.CurrentThread.Name);
