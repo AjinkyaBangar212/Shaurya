@@ -26,8 +26,8 @@ namespace ConsoleApp1.collection
         }
 
 
-        //IComparable<Student>    interface abstract class compulsury need to use 
-        public int CompareTo(Student other)
+        //IComparable<Student>    interface abstract class CompareTo compulsury need to use 
+        public int CompareTo(Student other) //return type int 0 1 -1
         {
          //   return Percentage.CompareTo(other.Percentage);  // for acending
 
@@ -49,6 +49,7 @@ namespace ConsoleApp1.collection
             slist.Add(new Student(6, "Titiksha","ENTC", 50));
             slist.Add(new Student(7, "Snehal","ENTC", 70));
             slist.Add(new Student(8, "Deepti","CS", 50));
+           
 
             slist.Sort();
 

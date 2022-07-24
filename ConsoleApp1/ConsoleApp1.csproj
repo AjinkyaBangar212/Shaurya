@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.collection.DemoQueue</StartupObject>
+	  <StartupObject>ConsoleApp1.CollectionAssigntment.Class20Employee</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
