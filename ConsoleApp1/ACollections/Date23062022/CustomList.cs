@@ -17,8 +17,8 @@ namespace ConsoleApp1.ACollections.Date23062022
         {
 
             /*  return this.Name.CompareTo(S2..Name); */  // for decending 
-            return S2.Name.CompareTo(this.Name);   //For Acending Just Need To Change s2.name  And this.name
-        }
+           return S2.Name.CompareTo(this.Name);   //For Acending Just Need To Change s2.name  And this.name
+        } 
 
 
         public override string ToString()           // This Method Is Important 

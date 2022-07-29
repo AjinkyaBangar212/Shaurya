@@ -16,8 +16,7 @@ namespace ConsoleApp1.collection
     {
         static void Main(string[] args)
         {
-           
-            SortedList<StringBuilder, int> ss = 
+                  SortedList<StringBuilder, int> ss = 
                 new SortedList<StringBuilder, int>(new SBSort()); //need to pass object of icompare
 
             ss.Add(new StringBuilder("Ajinkya"),100);
