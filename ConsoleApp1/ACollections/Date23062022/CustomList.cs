@@ -22,7 +22,7 @@ namespace ConsoleApp1.ACollections.Date23062022
 
 
         public override string ToString()           // This Method Is Important 
-        {
+        {                                            
             return $"{rollno} {name} {per}";
         }
 

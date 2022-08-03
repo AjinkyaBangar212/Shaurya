@@ -12,7 +12,7 @@ namespace ConsoleApp1.ACollections.Date23062022
             SortedList<Stud, int> L = new SortedList<Stud, int>();
 
             L.Add(new Stud (01,"Ajinkya",99),100 );
-/*            L.Clear();*/
+  //        L.Clear();
             L.Add(new Stud(02, "Prasad",98), 99);
             L.Add(new Stud(03, "Omkar", 59), 98);
             L.Add(new Stud(04, "Sumit", 89), 96);
