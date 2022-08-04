@@ -19,6 +19,7 @@ namespace ConsoleApp1
 
                     if (i != j && i % j == 0)
                     {
+
                         isPrime = false;
                         break;
                     }
