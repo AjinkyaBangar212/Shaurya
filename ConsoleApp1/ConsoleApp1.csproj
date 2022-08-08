@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>ConsoleApp1.Class4</StartupObject>
+	  <StartupObject>ConsoleApp1.Test07082022.LargerSmallerBouncy</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
